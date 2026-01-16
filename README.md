@@ -74,31 +74,6 @@ Manual note-taking is inconsistent and error-prone.
 * Decision frequency analysis
 * Processing pipeline visualization
 
-
-##  Project Structure
-
-```
-MeetMind/
-│
-├── data/
-│   ├── audio/
-│   ├── transcripts/
-│   └── labels/
-│
-├── scripts/
-│   ├── transcribe_audio.py
-│   ├── extract_actions.py
-│   ├── evaluate_quality.py
-│   └── visualize_results.py
-│
-├── outputs/
-│   ├── confidence_scores.csv
-│   └── charts/
-│
-├── README.md
-└── requirements.txt
-```
-
 ##  Use Cases
 
 * Corporate meeting summarization
